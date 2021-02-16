@@ -1,0 +1,9 @@
+Scenario: Perfect resume
+	As a user, I want to create a resume perfectly tailored for a specific job
+User stories
+Marcus Alonso
+	As a junior in college with impressive internships, I want a resume generator to 	help me display my internships while job-hunting
+James Alexander
+	As a senior in college, I want a resume generator so I can make a resume that 			will maximize my chances of success at job-hunting despite having little job 			experience
+Jo Joe
+	As a senior in college, I want a resume generator so I can create a resume I 			know will help me get a job in the field I want

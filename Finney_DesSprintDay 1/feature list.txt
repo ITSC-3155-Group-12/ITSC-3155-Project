@@ -1,0 +1,4 @@
+Feature List
+	1. Ability to input information about internships or other job experience
+	2. Ability to input coursework/education information
+	3. Ability to tailor resume for specific job listing or industry
